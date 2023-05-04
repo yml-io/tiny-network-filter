@@ -1,1 +1,1 @@
-This is a mini external access interception gateway, I used to do a temporary tool. Although there are still a lot of problems, but it works, until I find a job, I will expand its functionality and high performance optimization.
+A small tool for redirect http session according to rule chain.
